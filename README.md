@@ -19,7 +19,7 @@ My duplicity backup scripts
 + sync-gcloud.sh	(_Sync mirror storage_)
 
 > Steps
-> 1. Set up a local storaged based backup solution
+> 1. Set up a local storage based backup solution
 > 2. Enable Google Cloud Storage API
 > 3. Install and configure Google Cloud SDK
 > 4. Modify sync-gcloud.sh to your need
