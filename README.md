@@ -3,7 +3,7 @@
 My duplicity backup scripts
 
 ## [stable] Backup using ssh backend
-+ [stable] backup-ssh.sh
++ backup-ssh.sh
 + ignore	(_Exclude list for backup-ssh.sh_)
 
 > Steps
